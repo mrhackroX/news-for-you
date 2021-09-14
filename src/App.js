@@ -11,7 +11,6 @@ export default class App extends Component {
     return (
       <div>
         {/* <TopDrawer /> */}
-
         <NavBar />
         <News />
       </div>
